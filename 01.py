@@ -31,3 +31,5 @@ t1 = threading.Thread(target=LerVelocidade, name='Velocidade')
 t.start()
 t1.start()
 
+print("vou adicionar só algumas coisinhas pra ver se vai commitar")
+
