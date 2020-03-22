@@ -32,4 +32,4 @@ t.start()
 t1.start()
 
 print("vou adicionar só algumas coisinhas pra ver se vai commitar")
-
+#adicionando um comentario
